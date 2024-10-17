@@ -1,1 +1,2 @@
 # TestSoftware1
+Se clonó el repositorio desde GitHub y se verificó el historial de commits. Luego, se configuró el nombre de usuario y correo electrónico globales para asociar los commits. Después, se sincronizaron los cambios desde el repositorio remoto y se añadieron los cambios locales para ser confirmados. Posteriormente, se creó un commit con un mensaje descriptivo y se subieron los cambios al repositorio remoto. Finalmente, se verificaron las ramas locales y remotas disponibles.
